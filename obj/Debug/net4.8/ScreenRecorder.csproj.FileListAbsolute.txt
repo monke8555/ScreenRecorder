@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ScreenRecorder\bin\Debug\net4.8\ScreenRecorder.exe.config
+C:\Users\HP\source\repos\ScreenRecorder\bin\Debug\net4.8\ScreenRecorder.exe
+C:\Users\HP\source\repos\ScreenRecorder\bin\Debug\net4.8\ScreenRecorder.pdb
+C:\Users\HP\source\repos\ScreenRecorder\bin\Debug\net4.8\SharpAvi.dll
+C:\Users\HP\source\repos\ScreenRecorder\bin\Debug\net4.8\System.Drawing.Common.dll
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.AssemblyInfo.cs
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.csproj.CopyComplete
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.exe
+C:\Users\HP\source\repos\ScreenRecorder\obj\Debug\net4.8\ScreenRecorder.pdb

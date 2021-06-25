@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKWcQ7vcJuInTYJl78KqTaHwVfWF4n0NH8QDCTnCtRzaENokCkyTqGEMgvDRIs9xVJCp9Y4LT9hKpD/XKSJUXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ScreenRecorder\\ScreenRecorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\sharpavi\\2.1.2\\sharpavi.2.1.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
